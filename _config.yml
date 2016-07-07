@@ -1,0 +1,28 @@
+name: B.I.G
+favicon: null
+layout_spectrum: 0.9211208142805845
+typography_spectrum: 0.7301767037715763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10265517025254667
+  lightness: 0.9059965948108584
+  saturation: 0.038759675808250904
+  rhythmicContrast: 0.04381795576773584
+purpose: []
